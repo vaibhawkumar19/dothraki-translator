@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:	rgb(138, 168, 56);
+    font-family: 'Open Sans', sans-serif;
+}
+h1{
+    background-color: #d4e1f5;
+    font-family: 'Courier New', Courier, monospace;
+}
+#output {
+    max-width: 60%;
+    height: 50%;
+    border: 2px solid black;
+    margin: auto;
+    background-color: white;
+    display: block;
+    padding: 2rem;
+}
+#btnrewrite {
+    width: 20%;
+    height: 4vh;
+    background-color:	#52ca3a;
+    border-radius: 0.3rem;
+}
+#btnrewrite:hover{
+    color:	#141313;
+}
+.entry{
+    color: #0c0b0b;
+}
+#mid{
+    color:#050505;
+}
+#middle{
+    color:#201f1f;
+}
+#down{
+    color:#151616;
+}
